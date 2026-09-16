@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://denveralas.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vcenter=true&random=false&width=750&lines=Engr.+Denver+Jailani+Alas+(%22Denny%22)+%F0%9F%91%B7%E2%80%8D%F0%9F%92%BB;Full-Stack+Developer+%26+Computer+Engineer+%E2%9A%A1;Edge+AI+Systems+%E2%80%A2+Web+Dev+%E2%80%A2+Network+Infra+%F0%9F%9B%A1%EF%B8%8F;BSCpE+%40+Western+Mindanao+State+University+%F0%9F%8D%93" alt="Denver Alas Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vcenter=true&random=false&width=750&lines=Denver+Alas+(%22Denny%22)+%F0%9F%91%B7%E2%80%8D%F0%9F%92%BB;Full-Stack+Developer+%26+Computer+Engineer+%E2%9A%A1;Edge+AI+Systems+%E2%80%A2+Web+Dev+%E2%80%A2+Network+Infra+%F0%9F%9B%A1%EF%B8%8F;BSCpE+%40+Western+Mindanao+State+University+%F0%9F%8D%93" alt="Denver Alas Banner" />
   </a>
 
   <h3 align="center">⚡ Computer Engineer & Full-Stack Developer ⚡</h3>
@@ -147,5 +147,5 @@
 ---
 
 <div align="center">
-  <sub>Engr. Denver Jailani Alas ("Denny") • BSCpE (2022–2026) • Western Mindanao State University</sub>
+  <sub>Denver Alas ("Denny") • BSCpE (2022–2026) • Western Mindanao State University</sub>
 </div>
