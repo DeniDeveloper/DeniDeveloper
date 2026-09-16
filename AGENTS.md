@@ -34,6 +34,7 @@ This file contains persistent context, preferences, and identity information for
    - **Icons**: Use `skillicons.dev` vector grids for technical skills.
    - **Exclusions**:
      - Do **NOT** include raw JSON code blocks or heavy code cards in the bio section.
+     - Prefer **Core Engineering Pillars & Expertise Cards** over generic project tables.
      - Avoid unreliable third-party Vercel stats widgets (like `github-readme-stats` or `streak-stats` that return 503/404 errors or display inaccurate lifetime contribution counts).
 
 ---

@@ -55,13 +55,45 @@
 
 ---
 
-### ⚡ Featured Projects & Code Base
+### ⚡ Core Engineering Pillars & Expertise
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🌐 **Interactive Developer Portfolio** | Custom web portfolio featuring an embedded CLI terminal, dark mode, and fluid animations. | `React` `TailwindCSS` `Vite` | [Live Site](https://denveralas.vercel.app/) |
-| 🧠 **Edge AI Systems & Vision** | Real-time computer vision and embedded AI hardware deployment workflows. | `Python` `OpenCV` `Edge AI` | [GitHub](https://github.com/DeniDeveloper) |
-| ⚡ **Full-Stack Web Applications** | Scalable web platforms built with modern frontend frameworks and robust backend APIs. | `TypeScript` `React` `Node.js` | [GitHub](https://github.com/DeniDeveloper) |
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🧠 Edge AI & Computer Vision</h4>
+      <p align="center">
+        <code>Python</code> • <code>OpenCV</code> • <code>Edge AI</code>
+      </p>
+      <ul>
+        <li>Real-time object detection & computer vision workflows.</li>
+        <li>Optimizing neural networks for edge hardware deployment.</li>
+        <li>Integrating vision pipelines with intelligent software.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">💻 Full-Stack Web Development</h4>
+      <p align="center">
+        <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Node.js</code>
+      </p>
+      <ul>
+        <li>Architecting fast, responsive, modern web interfaces.</li>
+        <li>Building robust REST APIs & relational/NoSQL backends.</li>
+        <li>Focusing on clean UI/UX, accessibility & performance.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🛡️ Network & Systems Infrastructure</h4>
+      <p align="center">
+        <code>Linux</code> • <code>Networking</code> • <code>Security</code>
+      </p>
+      <ul>
+        <li>Network architecture design & protocol configuration.</li>
+        <li>System security fundamentals & server administration.</li>
+        <li>Linux environment setup & cross-platform workflows.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
