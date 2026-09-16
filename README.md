@@ -31,26 +31,7 @@
 
 ---
 
-### 💻 System Terminal // Overview
-
-```json
-{
-  "engineer": "Denver Alas",
-  "alias": "Denny / DeniDeveloper",
-  "status": "Computer Engineering Graduate",
-  "education": {
-    "degree": "BS in Computer Engineering (BSCpE)",
-    "institution": "Western Mindanao State University",
-    "location": "Zamboanga City, Philippines"
-  },
-  "specializations": [
-    "Edge AI & Computer Vision",
-    "Full-Stack Web Development",
-    "Network Infrastructure & System Security"
-  ],
-  "portfolio": "https://denveralas.vercel.app"
-}
-```
+### 👋 About Me
 
 - 🎓 **Education**: **Computer Engineering Graduate** (`BSCpE`) from **Western Mindanao State University**.
 - 🚀 **Specializations**: Edge AI Systems, Full-Stack Web Development, and Network Infrastructure.
