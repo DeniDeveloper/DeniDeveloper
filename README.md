@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Glowing Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0284c7,100:00f0ff&height=210&section=header&text=Engr.%20Denver%20Alas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BSCpE%20Graduate%20%7C%20Full-Stack%20%26%20Mobile%20Developer%20%7C%20Edge%20AI%20Engineer&descSize=16&descAlignY=62&descColor=00f0ff" alt="Engr. Denver Alas Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0284c7,100:00f0ff&height=210&section=header&text=Engr.%20Denver%20Alas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BSCpE%20Graduate%20%7C%20Full-Stack%20%26amp%3B%20Mobile%20Developer%20%7C%20Edge%20AI%20Engineer&descSize=16&descAlignY=62&descColor=00f0ff" alt="Engr. Denver Alas Header" />
 
   <br />
 
