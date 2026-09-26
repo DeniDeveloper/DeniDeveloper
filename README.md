@@ -41,7 +41,7 @@
 - 🏆 **Accolades**: **2026 Research Colloquium Champion** & **ICRDICCT-2026 Research Speaker / Author**.
 - 🚀 **Core Specializations**: Full-Stack Web Development, Flutter Cross-Platform Mobile Apps, Edge AI & Computer Vision, and Network Systems Infrastructure.
 - 💡 **Engineering Philosophy**: Bridging low-level hardware constraints with high-level intelligent software systems to build scalable, human-centered products.
-- 💬 **Ask Me About**: **React, Flutter/Dart, Google Gemini API, YOLOv11 Edge Vision, Node.js, MikroTik Routing, and Network Architecture**.
+- 💬 **Ask Me About**: **React, Flutter/Dart, Google Gemini API, Claude Code, Laravel, Supabase, YOLOv11 Edge Vision, Node.js, MikroTik Routing, and Network Architecture**.
 - 🌐 **Web Portfolio**: Explore my live interactive portfolio with an embedded CLI terminal at [denveralas.vercel.app](https://denveralas.vercel.app/).
 
 ---
@@ -50,13 +50,15 @@
 
 <div align="center">
 
-#### 💻 Frontend & Web
+#### 💻 Frontend, Web & CMS
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 #### 📱 Mobile App Development
@@ -66,18 +68,23 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![APK Release Pipeline](https://img.shields.io/badge/APK_Pipelines-0f172a?style=flat-square&logo=android&logoColor=00f0ff)
 
-#### ⚙️ Backend & Databases
+#### ⚙️ Backend, Databases & BaaS
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Neon PostgreSQL](https://img.shields.io/badge/Neon_PostgreSQL-00E599?style=flat-square&logo=neon&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logo=postman&logoColor=00f0ff)
 
-#### 🧠 AI & Computer Vision
+#### 🧠 AI, Agents & Computer Vision
 ![Google Gemini 2.5 Flash API](https://img.shields.io/badge/Google_Gemini_2.5_Flash_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
@@ -101,8 +108,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![IT Helpdesk Ticketing](https://img.shields.io/badge/IT_Helpdesk_Ticketing-0f172a?style=flat-square&logo=jira&logoColor=00f0ff)
 ![Technical Support](https://img.shields.io/badge/Technical_Support-0f172a?style=flat-square&logo=headset&logoColor=00f0ff)
+![System Diagnostics](https://img.shields.io/badge/System_Diagnostics-0f172a?style=flat-square&logo=windows-terminal&logoColor=00f0ff)
 
 </div>
 
@@ -124,18 +131,18 @@
       <ul>
         <li>Real-time object detection & multi-class posture inference on edge SBCs.</li>
         <li>Quantized INT8 neural networks for low-power edge deployment.</li>
-        <li>Integrating multimodal LLM APIs (Gemini 2.5 Flash) with user applications.</li>
+        <li>Integrating multimodal LLM APIs (Gemini 2.5 Flash) and AI agent workflows.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">💻 Full-Stack & Mobile Dev</h4>
       <p align="center">
-        <code>Flutter</code> • <code>React</code> • <code>Node.js</code> • <code>TypeScript</code>
+        <code>Flutter</code> • <code>React</code> • <code>Laravel</code> • <code>Node.js</code>
       </p>
       <ul>
-        <li>Architecting performant, responsive web apps with Tailwind & Vite.</li>
+        <li>Architecting performant web apps with React, Tailwind, Vite, and WordPress/CMS.</li>
         <li>Building native-feeling cross-platform mobile apps with Flutter & Dart.</li>
-        <li>Designing resilient REST APIs & PostgreSQL/MySQL relational databases.</li>
+        <li>Designing resilient REST APIs, BaaS (Supabase), and relational/NoSQL databases.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
