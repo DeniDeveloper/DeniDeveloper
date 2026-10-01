@@ -165,7 +165,7 @@
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=DeniDeveloper&color=00f0ff&style=flat-square&label=PROFILE+VISITS" alt="Profile Visitor Counter" />
+  <img src="https://hits.sh/github.com/DeniDeveloper.svg?style=for-the-badge&label=PROFILE%20VISITS&color=00f0ff&labelColor=090d16" alt="Profile Visitor Counter" />
 
   <br /><br />
   <sub>Engr. Denver Jailani Alas ("Denny") • BSCpE Graduate • Western Mindanao State University</sub>
