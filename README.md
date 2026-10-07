@@ -38,7 +38,7 @@
 ### 👋 About Me
 
 - 🎓 **Education**: **Computer Engineering Graduate** (`BSCpE`, 2022–2026) from **Western Mindanao State University** (*First Engineer in Family*).
-- 🏆 **Accolades**: **2026 Research Colloquium Champion** & **ICRDICCT-2026 Research Speaker / Author**.
+- 🏆 **Accolades**: **2026 Research Colloquium Champion** & **ICRDICCT-2026 Research Speaker / Author** **Civil Service Eligibility Professional Level**.
 - 🚀 **Core Specializations**: Full-Stack Web Development, Flutter Cross-Platform Mobile Apps, Edge AI & Computer Vision, and Network Systems Infrastructure.
 - 💡 **Engineering Philosophy**: Bridging low-level hardware constraints with high-level intelligent software systems to build scalable, human-centered products.
 - 💬 **Ask Me About**: **React, Flutter/Dart, Google Gemini API, Claude Code, Laravel, Supabase, YOLOv11 Edge Vision, Node.js, MikroTik Routing, and Network Architecture**.
